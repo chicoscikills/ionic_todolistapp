@@ -2,7 +2,7 @@
 
 Basic CRUD ionic mobile app for todo list.
 
-##User stories:
+
 
 *User is able to add a todo
 
