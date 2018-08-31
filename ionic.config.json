@@ -1,0 +1,10 @@
+{
+  "name": "my-todo",
+  "integrations": {},
+  "watchPatterns": [
+    "scss/**/*",
+    "www/**/*",
+    "!www/lib/**/*",
+    "!www/**/*.map"
+  ]
+}
